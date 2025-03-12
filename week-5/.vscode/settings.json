@@ -1,0 +1,18 @@
+{
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultColorDecorators": "never",
+        "gitlens.codeLens.symbolScopes": [
+            "!Module"
+        ],
+        "editor.defaultFormatter": null,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "black-formatter.importStrategy": "fromEnvironment",
+    "black-formatter.path": [
+        "${workspaceFolder}/.venv/bin/black"
+    ],
+    "notebook.formatOnCellExecution": true,
+    "notebook.formatOnSave.enabled": true,
+}
