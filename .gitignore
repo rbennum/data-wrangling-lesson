@@ -2,3 +2,6 @@
 **/*.csv
 **/*.db
 **/*.xlsx
+
+# specific case
+**/pset_dwp.ipynb
